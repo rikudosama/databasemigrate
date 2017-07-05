@@ -12,4 +12,4 @@ php -S localhost:8000
 
 ```
 
-For detailed explanation on how phinx work, consult the [docs for vue-loader](http://docs.phinx.org/en/latest/index.html).
+For detailed explanation on how phinx work, consult the [docs for phinx](http://docs.phinx.org/en/latest/index.html).
