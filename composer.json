@@ -1,0 +1,15 @@
+{
+    "name": "root/migrations",
+    "description": "database migrations system",
+    "authors": [
+        {
+            "name": "lengam bonaveneture",
+            "email": "bjean633@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.8.1",
+        "symfony/event-dispatcher": "^3.3",
+        "symfony/process": "^3.3"
+    }
+}
