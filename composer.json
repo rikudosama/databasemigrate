@@ -10,6 +10,7 @@
     "require": {
         "robmorgan/phinx": "^0.8.1",
         "symfony/event-dispatcher": "^3.3",
-        "symfony/process": "^3.3"
+        "symfony/process": "^3.3",
+        "fzaninotto/faker": "^1.6"
     }
 }
