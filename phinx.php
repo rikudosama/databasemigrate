@@ -11,7 +11,7 @@ return [
       'migrations' => __DIR__ .'/db/migrations',
       'seeds' => __DIR__ .'/db/seeds'
   ],
-  'environment' => [
+  'environments' => [
       'default_database' => 'development',
       'development' => [
         'name' => 'migration_demo',
